@@ -1,4 +1,5 @@
-| 序号 | 名称 | 博客网址 | 售卖网址 |
+# **下列表格获取所有项目源码、技术博客和环境部署教程！** 
+| 序号 | 项目名称 | 技术原理博客网址 | 源码获取网址 |
 | --- | --- | --- | --- |
 | 1 | OpenCV＆YOLOv5的车流量统计系统（源码＆部署教程） | [Blog](https://blog.csdn.net/qunshankeji/article/details/132319671?spm=1001.2014.3001.5501) | [Sale](https://mbd.pub/o/bread/mbd-ZJyclpxq) |
 | 2 | 基于DeepSort和OpenCV的猕猴桃巡检计数（源码＆部署教程） | [Blog](https://blog.csdn.net/qunshansj/article/details/132324536?spm=1001.2014.3001.5501) | [Sale](https://mbd.pub/o/bread/mbd-ZJycl5hu) |
@@ -275,27 +276,3 @@
 | 273 | [项目分享]基于OpenCV的人脸识别自助商店（源码＆部署视频） | [Blog](https://blog.csdn.net/m0_73388125/article/details/127789341) | [Sale](https://www.bilibili.com/video/BV1ot4y1j72F/?vd_source=bc9aec86d164b67a7004b996143742dc) |
 | 274 | [YOLOv7]基于YOLOv7的反光衣检测系统(源码＆部署教程＆数据集) | [Blog](https://blog.csdn.net/cheng2333333/article/details/126681684) | [Sale](https://mbd.pub/o/bread/mbd-Y5WVmpty) |
 | 275 | 改进YOLOv5＆OpenCV的PCB板缺陷检测系统（源码和部署教程） | [Blog](https://zhuanlan.zhihu.com/p/651153171) | [Sale](https://mbd.pub/o/bread/ZJ2UlZhq) |
-| 276 | nan | [Blog](nan) | [Sale](nan) |
-| 277 | nan | [Blog](nan) | [Sale](nan) |
-| 278 | nan | [Blog](nan) | [Sale](nan) |
-| 279 | nan | [Blog](nan) | [Sale](nan) |
-| 280 | nan | [Blog](nan) | [Sale](nan) |
-| 281 | nan | [Blog](nan) | [Sale](nan) |
-| 282 | nan | [Blog](nan) | [Sale](nan) |
-| 283 | nan | [Blog](nan) | [Sale](nan) |
-| 284 | nan | [Blog](nan) | [Sale](nan) |
-| 285 | nan | [Blog](nan) | [Sale](nan) |
-| 286 | nan | [Blog](nan) | [Sale](nan) |
-| 287 | nan | [Blog](nan) | [Sale](nan) |
-| 288 | nan | [Blog](nan) | [Sale](nan) |
-| 289 | nan | [Blog](nan) | [Sale](nan) |
-| 290 | nan | [Blog](nan) | [Sale](nan) |
-| 291 | nan | [Blog](nan) | [Sale](nan) |
-| 292 | nan | [Blog](nan) | [Sale](nan) |
-| 293 | nan | [Blog](nan) | [Sale](nan) |
-| 294 | nan | [Blog](nan) | [Sale](nan) |
-| 295 | nan | [Blog](nan) | [Sale](nan) |
-| 296 | nan | [Blog](nan) | [Sale](nan) |
-| 297 | nan | [Blog](nan) | [Sale](nan) |
-| 298 | nan | [Blog](nan) | [Sale](nan) |
-| 299 | nan | [Blog](nan) | [Sale](nan) |
